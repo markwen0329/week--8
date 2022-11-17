@@ -21,9 +21,9 @@ int main(){
     scanf("%d",&b);
     
     printf("a + b = %d\n",add1(a,b));
-    printf("a + b = %d\n",add2(a,b));
-    printf("a + b = %d\n",add3(a,b));
-    printf("a + b = %d\n",add4(a,b));
+    printf("a - b = %d\n",add2(a,b));
+    printf("a * b = %d\n",add3(a,b));
+    printf("a / b = %d\n",add4(a,b));
     
     cout<<"hello word\n";
     return 0;
